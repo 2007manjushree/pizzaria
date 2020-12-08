@@ -27,4 +27,4 @@ function add_item() {
     }
     htmldata = htmldata + "</section>";
     document.getElementById("display_addedmenu").innerHTML = htmldata;
-}
+} 
